@@ -1,4 +1,4 @@
-# aulas-python3
+# Aulas de Python3
 repositório para aulas de python
 # Funções em python
 
