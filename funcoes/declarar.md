@@ -1,5 +1,3 @@
-# Aulas de Python3
-repositório para aulas de python
 # Funções em python
 
 ## O que é uma função?
@@ -15,7 +13,3 @@ def somar():
     print(2 + 3)
 
 somar()
-```
-## Vamos continuar?
-
-acesse [Como declarar uma função](funcoes/declarar.md)
